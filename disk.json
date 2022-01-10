@@ -1,0 +1,24 @@
+{
+	"type": "app",
+	"versionIdx": 42,
+	"name": "ccedit",
+	"main": "app.html",
+	"imports": {
+		"codemirror": "v1",
+		"codeLint": "v1"
+	},
+	"lib": {},
+	"bin": {},
+	"binExport": {
+		"name": "edit",
+		"main": "app.html",
+		"type": "app"
+	},
+	"libExport": {
+		"name": "ccedit",
+		"main": "app.html",
+		"path": ""
+	},
+	"cloudId": "ccedit@avdpro@me.com",
+	"version": "0.1.13"
+}
