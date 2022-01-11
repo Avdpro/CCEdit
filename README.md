@@ -26,7 +26,7 @@ CCEditor is the Code/ Text editor in CokeCodes. It based on the great work of Co
 Most CCEditor features like file navigator, syntax hilights, are provide by addon. Addons are Javascript modules, load into runtime only when need. You can write your own addons or port popular addons.
 
 ## Roadmap
--[ ] More inbuilt language supports
--[ ] Better support for touch devices, phones and tablets  
--[ ] Night modes
--[ ] Themes support 
+- More inbuilt language supports  
+- Better support for touch devices, phones and tablets  
+- Night modes  
+- Themes support 
