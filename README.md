@@ -1,7 +1,9 @@
 # CCEdit
-## What is CCEditor 
-CCEditor is the Code/ Text editor in CokeCodes. It based on the great work of CodeMirror.
+## What is CCEdit 
+CCEdit is the Code/ Text editor in CokeCodes. It based on the great work of CodeMirror.
 ![ui](git/ui_01.png)
+
+Get CCEdit at [www.cokecodes.com](www.cokecodes.com)
 
 ## Features:
 - **Fast** careful optimized, starts in second, smooth edit experience 
@@ -23,10 +25,10 @@ CCEditor is the Code/ Text editor in CokeCodes. It based on the great work of Co
 - **Terminal**: access CokeCodes terminal in editor tool window, run handy commands without switch out your editor 
 
 ## Addons
-Most CCEditor features like file navigator, syntax hilights, are provide by addon. Addons are Javascript modules, load into runtime only when need. You can write your own addons or port popular addons.
+Most CCEdit features like file navigator, syntax highlights, are provide by addon. Addons are Javascript modules, load into runtime only when need. You can write your own addons or port popular addons.
 
 ## Roadmap
-- More inbuilt language supports  
 - Better support for touch devices, phones and tablets  
+- More inbuilt language supports  
 - Night modes  
 - Themes support 
