@@ -32,3 +32,6 @@ Most CCEdit features like file navigator, syntax highlights, are provide by addo
 - More inbuilt language supports  
 - Night modes  
 - Themes support 
+
+##Ideas?
+If you like a CCEdit, have ideas to improve, contact me at pxavdpro@gmail.com
